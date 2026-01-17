@@ -1,6 +1,9 @@
 {
   "name": "reallab-portal",
   "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'No build step required'"
+  },
   "dependencies": {
     "googleapis": "^126.0.0"
   }
